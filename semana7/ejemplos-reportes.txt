@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 134
+ETag: W/"86-rWKaQkw8SpBCAdA3rcHUs3FE4+A"
+Date: Sat, 27 Jun 2026 21:51:10 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 6,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+}
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 120
+ETag: W/"78-XtB35cfHvDyt+8IHchUI7xxPi4o"
+Date: Sat, 27 Jun 2026 21:52:06 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 7,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
